@@ -1,4 +1,6 @@
-﻿using System;
+﻿using PatikaDev_Odev_2.Entites.Abstract;
+using PatikaDev_Odev_2.Entites.Concrete;
+using System;
 
 namespace PatikaDev_Odev_2
 {

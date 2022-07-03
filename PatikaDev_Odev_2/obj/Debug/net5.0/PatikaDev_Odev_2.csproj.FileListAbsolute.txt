@@ -5,7 +5,6 @@ C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev
 C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\bin\Debug\net5.0\PatikaDev_Odev_2.dll
 C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\bin\Debug\net5.0\ref\PatikaDev_Odev_2.dll
 C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\bin\Debug\net5.0\PatikaDev_Odev_2.pdb
-C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.csprojAssemblyReference.cache
 C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.AssemblyInfoInputs.cache
 C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.AssemblyInfo.cs

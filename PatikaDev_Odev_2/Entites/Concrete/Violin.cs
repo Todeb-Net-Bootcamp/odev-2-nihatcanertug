@@ -1,13 +1,15 @@
-﻿using System;
+﻿using PatikaDev_Odev_2.Entites.Abstract;
+using System;
 
-/// <summary>
-/// Summary description for Class1
-/// </summary>
-public class Violin : Instrument
+namespace PatikaDev_Odev_2.Entites.Concrete
 {
-    //Keman sınıfı soyut enstrüman sınıfından kalıtım alarak zorunlu tuttugumuz ilgili methodu override etti.
-    public override string Play()
+
+    public class Violin : Instrument
     {
-        return "Violin voice";
+        //Keman sınıfı soyut enstrüman sınıfından kalıtım alarak zorunlu tuttugumuz ilgili methodu override etti.
+        public override string Play()
+        {
+            return "Violin voice";
+        }
     }
 }

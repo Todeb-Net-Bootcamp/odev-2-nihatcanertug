@@ -1,11 +1,14 @@
-﻿using System;
+﻿using PatikaDev_Odev_2.Entites.Abstract;
+using System;
 
-
-public class Guitar : Instrument
+namespace PatikaDev_Odev_2.Entites.Concrete
 {
-    //Gitar sınıfı soyut enstrüman sınıfından kalıtım alarak zorunlu tuttugumuz ilgili methodu override etti.
-    public override string Play()
+    public class Guitar : Instrument
     {
-        return "Guitar voice";
+        //Gitar sınıfı soyut enstrüman sınıfından kalıtım alarak zorunlu tuttugumuz ilgili methodu override etti.
+        public override string Play()
+        {
+            return "Guitar voice";
+        }
     }
 }
