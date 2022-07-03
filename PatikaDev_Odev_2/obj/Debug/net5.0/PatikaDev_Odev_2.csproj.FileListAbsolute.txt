@@ -1,0 +1,16 @@
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\bin\Debug\net5.0\PatikaDev_Odev_2.exe
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\bin\Debug\net5.0\PatikaDev_Odev_2.deps.json
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\bin\Debug\net5.0\PatikaDev_Odev_2.runtimeconfig.json
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\bin\Debug\net5.0\PatikaDev_Odev_2.runtimeconfig.dev.json
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\bin\Debug\net5.0\PatikaDev_Odev_2.dll
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\bin\Debug\net5.0\ref\PatikaDev_Odev_2.dll
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\bin\Debug\net5.0\PatikaDev_Odev_2.pdb
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.csprojAssemblyReference.cache
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.AssemblyInfoInputs.cache
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.AssemblyInfo.cs
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.csproj.CoreCompileInputs.cache
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.dll
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\ref\PatikaDev_Odev_2.dll
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.pdb
+C:\Users\W10\Source\Repos\Todeb-Net-Bootcamp\odev-2-nihatcanertug\PatikaDev_Odev_2\obj\Debug\net5.0\PatikaDev_Odev_2.genruntimeconfig.cache
